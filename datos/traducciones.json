@@ -1,0 +1,59 @@
+{
+  "Ceviche clásico": {"en": "Classic ceviche", "de": "Klassisches Ceviche"},
+  "Lomo saltado": {"en": "Lomo saltado (stir-fried beef)", "de": "Lomo saltado (gebratenes Rindfleisch)"},
+  "Ají de gallina": {"en": "Ají de gallina (creamy chicken)", "de": "Ají de gallina (Hähnchen in Chilicreme)"},
+  "Causa limeña": {"en": "Causa limeña (potato terrine)", "de": "Causa limeña (Kartoffelterrine)"},
+  "Anticuchos": {"en": "Anticuchos (beef heart skewers)", "de": "Anticuchos (Rinderherzspieße)"},
+  "Arroz con mariscos": {"en": "Seafood rice", "de": "Reis mit Meeresfrüchten"},
+  "Papa a la huancaína": {"en": "Potatoes in huancaína sauce", "de": "Kartoffeln in Huancaína-Soße"},
+  "Ensalada de quinua": {"en": "Quinoa salad", "de": "Quinoasalat"},
+  "Suspiro limeño": {"en": "Suspiro limeño (caramel and meringue)", "de": "Suspiro limeño (Milchkaramell mit Baiser)"},
+  "Chicha morada": {"en": "Chicha morada (purple corn drink)", "de": "Chicha morada (Getränk aus lila Mais)"},
+  "Limonada frozen": {"en": "Frozen lemonade", "de": "Gefrorene Limonade"},
+  "Jugo de maracuyá": {"en": "Passion fruit juice", "de": "Maracujasaft"},
+  "Pisco sour": {"en": "Pisco sour", "de": "Pisco Sour"},
+  "Cerveza": {"en": "Beer", "de": "Bier"},
+  "Agua mineral": {"en": "Mineral water", "de": "Mineralwasser"},
+
+  "Pescado del día en leche de tigre con ají limo, camote y choclo": {
+    "en": "Catch of the day in tiger's milk with limo chili, sweet potato and Andean corn",
+    "de": "Fang des Tages in Tigermilch mit Limo-Chili, Süßkartoffel und Andenmais"},
+  "Tiras de lomo salteadas al wok con cebolla, tomate y papas fritas, con arroz": {
+    "en": "Beef tenderloin strips wok-fried with onion, tomato and fries, served with rice",
+    "de": "Im Wok gebratene Rinderfiletstreifen mit Zwiebeln, Tomaten und Pommes, dazu Reis"},
+  "Gallina deshilachada en crema de ají amarillo, con arroz, papa y huevo": {
+    "en": "Shredded chicken in a yellow chili cream, with rice, potato and egg",
+    "de": "Gezupftes Hähnchen in einer Creme aus gelbem Chili, mit Reis, Kartoffel und Ei"},
+  "Papa amarilla con ají y limón, rellena de pollo, palta y mayonesa": {
+    "en": "Yellow potato with chili and lime, filled with chicken, avocado and mayonnaise",
+    "de": "Gelbe Kartoffel mit Chili und Limette, gefüllt mit Hähnchen, Avocado und Mayonnaise"},
+  "Brochetas de corazón de res a la parrilla con papa dorada y choclo": {
+    "en": "Grilled beef heart skewers with golden potatoes and Andean corn",
+    "de": "Gegrillte Rinderherzspieße mit gebratenen Kartoffeln und Andenmais"},
+  "Arroz meloso con langostinos, calamar y conchas": {
+    "en": "Creamy rice with prawns, squid and scallops",
+    "de": "Cremiger Reis mit Garnelen, Tintenfisch und Jakobsmuscheln"},
+  "Papa sancochada bañada en crema de queso fresco y ají amarillo": {
+    "en": "Boiled potatoes covered in a fresh cheese and yellow chili sauce",
+    "de": "Gekochte Kartoffeln mit einer Soße aus Frischkäse und gelbem Chili"},
+  "Quinua, palta, tomate, choclo y pepino con vinagreta de limón": {
+    "en": "Quinoa, avocado, tomato, Andean corn and cucumber with lime vinaigrette",
+    "de": "Quinoa, Avocado, Tomate, Andenmais und Gurke mit Limettenvinaigrette"},
+  "Manjar blanco con merengue al oporto y canela": {
+    "en": "Dulce de leche topped with port meringue and cinnamon",
+    "de": "Milchkaramell mit Portwein-Baiser und Zimt"},
+  "Maíz morado, piña, canela y clavo, bien helada": {
+    "en": "Purple corn, pineapple, cinnamon and clove, served ice cold",
+    "de": "Lila Mais, Ananas, Zimt und Nelken, eiskalt serviert"},
+  "Limón recién exprimido con hielo frappé": {
+    "en": "Freshly squeezed lime with crushed ice",
+    "de": "Frisch gepresste Limette mit Crushed Ice"},
+  "Maracuyá natural, poco dulce": {
+    "en": "Fresh passion fruit, lightly sweetened",
+    "de": "Frische Maracuja, wenig gesüßt"},
+  "Pisco quebranta, limón, jarabe y clara de huevo": {
+    "en": "Quebranta pisco, lime, syrup and egg white",
+    "de": "Quebranta-Pisco, Limette, Sirup und Eiweiß"},
+  "Botella personal bien fría": {"en": "Ice-cold single bottle", "de": "Eiskalte Flasche"},
+  "Con o sin gas": {"en": "Still or sparkling", "de": "Still oder mit Kohlensäure"}
+}
