@@ -79,7 +79,7 @@ export function usePanel({ alEvento } = {}) {
     setPulsos((p) => ({ ...p, ...Object.fromEntries(tocados(evento, datos.bots).map((k) => [k, ahora])) }));
     setTimeout(() => setTic((t) => t + 1), 1600);
     setEventos((lista) => [
-      { id: ahora + Math.random(), texto, Icono, importante, hora: new Date().toLocaleTimeString("es-PE", { hour: "2-digit", minute: "2-digit", second: "2-digit" }) },
+      { id: ahora + Math.random(), texto, Icono, importante, hora: new Date().toLocaleTimeString("es-PE", { hour: "2-digit", minute: "2-digit", second: "2-digit", hour12: false }) },
       ...lista,
     ].slice(0, 40));
     alEvento?.(evento, texto);

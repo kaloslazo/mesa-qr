@@ -12,7 +12,10 @@ export function Entrar({ mesa, restaurante, cuenta, catalogo, nombreGuardado, al
   return (
     <div className="mesa" style={{ paddingBottom: 40 }}>
       <header className="mesa-cabecera">
-        <div className="lugar"><div><small>{restaurante}</small><b>Mesa {mesa}</b></div></div>
+        <div className="lugar">
+          <div className="insignia" aria-label={`Mesa ${mesa}`}><small>MESA</small><b>{mesa}</b></div>
+          <b className="local">{restaurante}</b>
+        </div>
         <BotonTema />
       </header>
 
